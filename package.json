@@ -2,6 +2,8 @@
   "type": "module",
   "dependencies": {
     "fs-extra": "^9.1.0",
-    "glob": "^7.1.6"
+    "fs-extra-promise": "^1.0.1",
+    "glob": "^7.1.6",
+    "glob-promise": "^3.4.0"
   }
 }
