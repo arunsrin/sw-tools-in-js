@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "glob": "^7.1.6"
+  }
+}
